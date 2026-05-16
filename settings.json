@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IronLegacySMP.aternos.me",
+    "ip": "IronLegacySMP.aternos.me:50796",
     "port": 50796,
     "version": "",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I love this server",
         "I like to play Minecraft!"
       ]
     },
